@@ -24,7 +24,7 @@ description = "自言自語,自語自言"
 url = "http://ncnote.github.io/"
 
 # which theme to use?
-theme = "less"
+theme = "classic"
 
 [author]
 name = "Mahiro"
